@@ -23,4 +23,8 @@ public class Day11 {
 
 	}
 
+	public void lithesh() {
+		System.out.println("conflicts occurred");
+
+	}
 }
