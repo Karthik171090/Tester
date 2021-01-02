@@ -24,7 +24,10 @@ public class Day11 {
 	}
 public void karthik() {
 	System.out.println("Trying Conflict");
+}
+	public void lithesh() {
+		System.out.println("conflicts occurred");
 
+	}
 }
 	
-}
